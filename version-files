@@ -1,0 +1,7 @@
+src/usbmassstorage-head.h.in
+src/usbmassstorage-tail.h
+src/prototypes.h
+src/ext_prototypes.h
+src/libusbmassstorage.c
+src/version.c
+src/project.h
